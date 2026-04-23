@@ -16,7 +16,18 @@
       }
     ]
   },
-  "links": [],
+    "links": [
+    {
+      "icon": "",
+      "title": "开源网站",
+      "url": "https://github.com/jinmohan/afdian-shujucang-vela"
+    },
+    {
+      "icon": "",
+      "title": "交流群",
+      "url": "https://qm.qq.com/cgi-bin/qm/qr?k=ODzojo2c4ywhNbC8ZNykGqErnJExoEbG&jump_from=webapi&authKey=3MeurE4gAj0dDFLwHziZQhKbUREYGp/wWQv+loozcRzBeKfwoJCwa6nhh7qARUXO"
+    }
+  ],
   "downloads": {
     "xmrw6": {
       "version": "1.0.0",
